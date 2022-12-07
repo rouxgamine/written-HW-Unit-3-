@@ -20,3 +20,16 @@ JSX is an XML/HTML like extension to JavaScript.*
 
 ### What is Create React App? 
 *Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.*
+
+
+### What are all the JavaScript Data Types?
+
+There are five primitive types of data in JavaScript: string, number, boolean, undefined, null and one complex data type - object. 
+
+### What is the Difference Between Const Let and Var? Consider Scope ... Give an example
+### Pass By Value vs Pass By Reference? Why would you say a String is pass by value/ or a value type? Why is an object a reference type?
+### What do Map , Filter and Reduce do? Do they mutate the array you call them on?
+### What are all the Falsey Values in JavaScript? Why do you think this is important to know?
+### What are Async and Await?
+### What is an async function?
+### What are try and catch?
